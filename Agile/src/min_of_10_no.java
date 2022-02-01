@@ -7,6 +7,7 @@ public class min_of_10_no {
 		int arr[] = new int[10];
 		for(int i=0;i<arr.length;i++) {
 			arr[i] = s.nextInt();
+			
 		}
 		int small = Integer.MAX_VALUE;
 		for(int i=0;i<arr.length;i++) {
